@@ -4,17 +4,8 @@ Figuring stuff out
 Learn git with this tutorial:
 https://learngitbranching.js.org/
 
-Thom's first attempt to change
-Stephanie's first attempt to change
-Zhiyang' first attempt to change to branch
-
-okay I want to make another change here
-another change here...
 Here is a really nice article for overall git workflow:
 https://gist.github.com/Chaser324/ce0505fbed06b947d962
 
 
-Thom's first attempt to change
-Thom's second change
 
-Zhiyang'first attempt to push to new Branch
