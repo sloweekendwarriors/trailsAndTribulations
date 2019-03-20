@@ -1,17 +1,14 @@
 # trailsAndTribulations
-Figuring stuff out
-
-Learn git with this tutorial:
+## Learn git 
+Use this tutorial to learn git:
 https://learngitbranching.js.org/
 
-<<<<<<< HEAD
-Thom's first attempt to change
-
-Tom's first change
-=======
-Here is a really nice article for overall git workflow:
+Review this article for overall git workflow:
 https://gist.github.com/Chaser324/ce0505fbed06b947d962
 
-
-
->>>>>>> 02b762c04aafd7fefed0927d812063861a7c9181
+## Learn JAM stack
+Letter | Meaning
+:---: | :---
+J | <abbr title="JavaScript">JS</abbr>
+A | <abbr title="Application Programming Interface">API</abbr>
+M | Markup (<abbr title="HyperText Markup Language">HTML</abbr> + <abbr title="Cascading Style Sheets">CSS</abbr>)
